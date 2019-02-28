@@ -31,5 +31,11 @@ Jawab: 1.) Cookies disimpan di sisi klien sedangkan session disimpan di sisi ser
 Jawab: Dengan cara meng-unset atau mendestroy sebuah session dan cookies sehingga hilang dari program
 # 3. Berikan contoh kode dari pembuatan dan menghapus cookies dan session!
 #jawab:
-# 1. Membuat session
-![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/index%203.png?raw=true)
+# 1. Membuat Session
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/Membuat%20session.png)
+# 2. Membuat Cookie
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/Membuat%20Cookie.png)
+# 3. Menghapus Session
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/Menghapus%20session.png)
+# 4. Menghapus Cookie
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/Menghapus%20Cookie.png)
