@@ -12,8 +12,11 @@
 #Screenshot session 2 - 2
 ![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/Session2-2.png)
 #Screenshot autentikasi 1
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/autentikasi%201.png)
 #Screenshot autentikasi 2
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/autentikasi%202.png)
 #Screenshot autentikasi 3
+![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/autentikasi%203.png)
 #Screenshot tugas praktikum 1
 ![alt](https://github.com/Ardananisrina/PHPModul6Nisrina/blob/master/index.png?raw=true)
 #Screenshot tugas praktikum 2
